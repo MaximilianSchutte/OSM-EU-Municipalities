@@ -1,0 +1,898 @@
+  No valid municipality polygons left after filtering for Zolling (VGem).
+
+--- Processing chunk 401/478108: Eimsbüttel ---
+  Downloading municipalities for Eimsbüttel...
+  Removed 23 duplicate OSM IDs found in previous chunks.
+  Found 15 new municipalities. Saving to file...
+  Successfully saved. Total municipalities so far: 19483
+
+--- Processing chunk 402/478108: Hamburg-Nord ---
+  Downloading municipalities for Hamburg-Nord...
+  Removed 23 duplicate OSM IDs found in previous chunks.
+  Found 11 new municipalities. Saving to file...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyogrio\raw.py:723: RuntimeWarning: A geometry of type POLYGON is inserted into layer germany_municipalities of geometry type MULTIPOLYGON, which is not normally allowed by the GeoPackage specification, but the driver will however do it. To create a conformant GeoPackage, if using ogr2ogr, the -nlt option can be used to override the layer geometry type. This warning will no longer be emitted for this combination of layer and feature geometry type.
+  ogr_write(
+  Successfully saved. Total municipalities so far: 19494
+
+--- Processing chunk 403/478108: Wandsbek ---
+  Downloading municipalities for Wandsbek...
+  Removed 28 duplicate OSM IDs found in previous chunks.
+  Found 21 new municipalities. Saving to file...
+  Successfully saved. Total municipalities so far: 19515
+
+--- Processing chunk 404/478108: Wandsbek ---
+  Downloading municipalities for Wandsbek...
+  Removed 49 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Wandsbek.
+
+--- Processing chunk 405/478108: Garching bei München ---
+  Downloading municipalities for Garching bei München...
+  Removed 6 duplicate OSM IDs found in previous chunks.
+  Found 4 new municipalities. Saving to file...
+  Successfully saved. Total municipalities so far: 19519
+
+--- Processing chunk 406/478108: Oberschleißheim ---
+  Downloading municipalities for Oberschleißheim...
+  Removed 10 duplicate OSM IDs found in previous chunks.
+  Found 7 new municipalities. Saving to file...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyogrio\raw.py:723: RuntimeWarning: A geometry of type POLYGON is inserted into layer germany_municipalities of geometry type MULTIPOLYGON, which is not normally allowed by the GeoPackage specification, but the driver will however do it. To create a conformant GeoPackage, if using ogr2ogr, the -nlt option can be used to override the layer geometry type. This warning will no longer be emitted for this combination of layer and feature geometry type.
+  ogr_write(
+  Successfully saved. Total municipalities so far: 19526
+
+--- Processing chunk 407/478108: Gleichen ---
+  Downloading municipalities for Gleichen...
+  Removed 2 duplicate OSM IDs found in previous chunks.
+  Found 53 new municipalities. Saving to file...
+  Successfully saved. Total municipalities so far: 19579
+
+--- Processing chunk 408/478108: Gleichen ---
+  Downloading municipalities for Gleichen...
+  Removed 55 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Gleichen.
+
+--- Processing chunk 409/478108: Monheim am Rhein ---
+  Downloading municipalities for Monheim am Rhein...
+  Removed 1 duplicate OSM IDs found in previous chunks.
+  Found 20 new municipalities. Saving to file...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyogrio\raw.py:723: RuntimeWarning: A geometry of type POLYGON is inserted into layer germany_municipalities of geometry type MULTIPOLYGON, which is not normally allowed by the GeoPackage specification, but the driver will however do it. To create a conformant GeoPackage, if using ogr2ogr, the -nlt option can be used to override the layer geometry type. This warning will no longer be emitted for this combination of layer and feature geometry type.
+  ogr_write(
+  Successfully saved. Total municipalities so far: 19599
+
+--- Processing chunk 410/478108: Kisdorf ---
+  Downloading municipalities for Kisdorf...
+  Removed 1 duplicate OSM IDs found in previous chunks.
+  Found 11 new municipalities. Saving to file...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyogrio\raw.py:723: RuntimeWarning: A geometry of type POLYGON is inserted into layer germany_municipalities of geometry type MULTIPOLYGON, which is not normally allowed by the GeoPackage specification, but the driver will however do it. To create a conformant GeoPackage, if using ogr2ogr, the -nlt option can be used to override the layer geometry type. This warning will no longer be emitted for this combination of layer and feature geometry type.
+  ogr_write(
+  Successfully saved. Total municipalities so far: 19610
+
+--- Processing chunk 411/478108: Kisdorf ---
+  Downloading municipalities for Kisdorf...
+  Removed 12 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Kisdorf.
+
+--- Processing chunk 412/478108: Simmelsdorf ---
+  Downloading municipalities for Simmelsdorf...
+  Removed 13 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Simmelsdorf.
+
+--- Processing chunk 413/478108: Hennef (Sieg) ---
+  Downloading municipalities for Hennef (Sieg)...
+  Removed 3 duplicate OSM IDs found in previous chunks.
+  Found 49 new municipalities. Saving to file...
+  Successfully saved. Total municipalities so far: 19659
+
+--- Processing chunk 414/478108: Hennef (Sieg) ---
+  Downloading municipalities for Hennef (Sieg)...
+  Removed 52 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Hennef (Sieg).
+
+--- Processing chunk 415/478108: Hennef (Sieg) ---
+  Downloading municipalities for Hennef (Sieg)...
+  Removed 52 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Hennef (Sieg).
+
+--- Processing chunk 416/478108: Hennef (Sieg) ---
+  Downloading municipalities for Hennef (Sieg)...
+  Removed 52 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Hennef (Sieg).
+
+--- Processing chunk 417/478108: Radebeul ---
+  Downloading municipalities for Radebeul...
+  Found 23 new municipalities. Saving to file...
+  Successfully saved. Total municipalities so far: 19682
+
+--- Processing chunk 418/478108: Radebeul ---
+  Downloading municipalities for Radebeul...
+  Removed 23 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Radebeul.
+
+--- Processing chunk 419/478108: Radebeul ---
+  Downloading municipalities for Radebeul...
+  Removed 23 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Radebeul.
+
+--- Processing chunk 420/478108: Radebeul ---
+  Downloading municipalities for Radebeul...
+  Removed 23 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Radebeul.
+
+--- Processing chunk 421/478108: Zitzschewig ---
+  Downloading municipalities for Zitzschewig...
+  Removed 7 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Zitzschewig.
+
+--- Processing chunk 422/478108: Zitzschewig ---
+  Downloading municipalities for Zitzschewig...
+  Removed 7 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Zitzschewig.
+
+--- Processing chunk 423/478108: Naundorf ---
+  Downloading municipalities for Naundorf...
+  Removed 10 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Naundorf.
+
+--- Processing chunk 424/478108: Naundorf ---
+  Downloading municipalities for Naundorf...
+  Removed 10 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Naundorf.
+
+--- Processing chunk 425/478108: Kötzschenbroda ---
+  Downloading municipalities for Kötzschenbroda...
+  Removed 11 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Kötzschenbroda.
+
+--- Processing chunk 426/478108: Kötzschenbroda ---
+  Downloading municipalities for Kötzschenbroda...
+  Removed 11 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Kötzschenbroda.
+
+--- Processing chunk 427/478108: Kötzschenbroda ---
+  Downloading municipalities for Kötzschenbroda...
+  Removed 11 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Kötzschenbroda.
+
+--- Processing chunk 428/478108: Kötzschenbroda ---
+  Downloading municipalities for Kötzschenbroda...
+  Removed 11 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Kötzschenbroda.
+
+--- Processing chunk 429/478108: Steeg ---
+  Downloading municipalities for Steeg...
+  Removed 15 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Steeg.
+
+--- Processing chunk 430/478108: Holzgau ---
+  Downloading municipalities for Holzgau...
+  Removed 13 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Holzgau.
+
+--- Processing chunk 431/478108: Landtag Sachsen-Anhalt ---
+  Downloading municipalities for Landtag Sachsen-Anhalt...
+  An error occurred while processing Landtag Sachsen-Anhalt: No matching features. Check query location, tags, and log.
+  Skipping this chunk.
+
+--- Processing chunk 432/478108: Hinterhornbach ---
+  Downloading municipalities for Hinterhornbach...
+  Removed 14 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Hinterhornbach.
+
+--- Processing chunk 433/478108: Weißenbach am Lech ---
+  Downloading municipalities for Weißenbach am Lech...
+  Removed 18 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Weißenbach am Lech.
+
+--- Processing chunk 434/478108: Weißenbach am Lech ---
+  Downloading municipalities for Weißenbach am Lech...
+  Removed 18 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Weißenbach am Lech.
+
+--- Processing chunk 435/478108: Ehrwald ---
+  Downloading municipalities for Ehrwald...
+  Removed 14 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Ehrwald.
+
+--- Processing chunk 436/478108: Lermoos ---
+  Downloading municipalities for Lermoos...
+  Removed 15 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Lermoos.
+
+--- Processing chunk 437/478108: Grän ---
+  Downloading municipalities for Grän...
+  Removed 12 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Grän.
+
+--- Processing chunk 438/478108: Tannheim ---
+  Downloading municipalities for Tannheim...
+  Removed 13 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Tannheim.
+
+--- Processing chunk 439/478108: Zöblen ---
+  Downloading municipalities for Zöblen...
+  Removed 11 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Zöblen.
+
+--- Processing chunk 440/478108: Schattwald ---
+  Downloading municipalities for Schattwald...
+  Removed 10 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Schattwald.
+
+--- Processing chunk 441/478108: Jungholz ---
+  Downloading municipalities for Jungholz...
+  Removed 12 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Jungholz.
+
+--- Processing chunk 442/478108: Pflach ---
+  Downloading municipalities for Pflach...
+  Removed 16 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Pflach.
+
+--- Processing chunk 443/478108: Pinswang ---
+  Downloading municipalities for Pinswang...
+  Removed 15 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Pinswang.
+
+--- Processing chunk 444/478108: Pinswang ---
+  Downloading municipalities for Pinswang...
+  Removed 15 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Pinswang.
+
+--- Processing chunk 445/478108: Drenthe ---
+  Downloading municipalities for Drenthe...
+  Removed 4 duplicate OSM IDs found in previous chunks.
+  Found 392 new municipalities. Saving to file...
+  Successfully saved. Total municipalities so far: 20074
+
+--- Processing chunk 446/478108: Drenthe ---
+  Downloading municipalities for Drenthe...
+  Removed 396 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Drenthe.
+
+--- Processing chunk 447/478108: Drenthe ---
+  Downloading municipalities for Drenthe...
+  Removed 396 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Drenthe.
+
+--- Processing chunk 448/478108: Drenthe ---
+  Downloading municipalities for Drenthe...
+  Removed 396 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Drenthe.
+
+--- Processing chunk 449/478108: Gelderland ---
+  Downloading municipalities for Gelderland...
+  Removed 23 duplicate OSM IDs found in previous chunks.
+  Found 648 new municipalities. Saving to file...
+  Successfully saved. Total municipalities so far: 20722
+
+--- Processing chunk 450/478108: Gelderland ---
+  Downloading municipalities for Gelderland...
+  Removed 671 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Gelderland.
+
+--- Processing chunk 451/478108: Gelderland ---
+  Downloading municipalities for Gelderland...
+  Removed 671 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Gelderland.
+
+--- Processing chunk 452/478108: Gelderland ---
+  Downloading municipalities for Gelderland...
+  Removed 671 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Gelderland.
+
+--- Processing chunk 453/478108: Gelderland ---
+  Downloading municipalities for Gelderland...
+  Removed 671 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Gelderland.
+
+--- Processing chunk 454/478108: Swalmen ---
+  Downloading municipalities for Swalmen...
+  Removed 7 duplicate OSM IDs found in previous chunks.
+  Found 13 new municipalities. Saving to file...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pyogrio\raw.py:723: RuntimeWarning: A geometry of type POLYGON is inserted into layer germany_municipalities of geometry type MULTIPOLYGON, which is not normally allowed by the GeoPackage specification, but the driver will however do it. To create a conformant GeoPackage, if using ogr2ogr, the -nlt option can be used to override the layer geometry type. This warning will no longer be emitted for this combination of layer and feature geometry type.
+  ogr_write(
+  Successfully saved. Total municipalities so far: 20735
+
+--- Processing chunk 455/478108: Overijssel ---
+  Downloading municipalities for Overijssel...
+  Removed 159 duplicate OSM IDs found in previous chunks.
+  Found 240 new municipalities. Saving to file...
+  Successfully saved. Total municipalities so far: 20975
+
+--- Processing chunk 456/478108: Overijssel ---
+  Downloading municipalities for Overijssel...
+  Removed 399 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Overijssel.
+
+--- Processing chunk 457/478108: Overijssel ---
+  Downloading municipalities for Overijssel...
+  Removed 399 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Overijssel.
+
+--- Processing chunk 458/478108: Overijssel ---
+  Downloading municipalities for Overijssel...
+  Removed 399 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Overijssel.
+
+--- Processing chunk 459/478108: Limburg ---
+  Downloading municipalities for Limburg...
+  Removed 62 duplicate OSM IDs found in previous chunks.
+  Found 283 new municipalities. Saving to file...
+  Successfully saved. Total municipalities so far: 21258
+
+--- Processing chunk 460/478108: Limburg ---
+  Downloading municipalities for Limburg...
+  Removed 345 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Limburg.
+
+--- Processing chunk 461/478108: Limburg ---
+  Downloading municipalities for Limburg...
+  Removed 345 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Limburg.
+
+--- Processing chunk 462/478108: Nederland ---
+  Downloading municipalities for Nederland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 766 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 2020 duplicate OSM IDs found in previous chunks.
+  Found 3680 new municipalities. Saving to file...
+  Successfully saved. Total municipalities so far: 24938
+
+--- Processing chunk 463/478108: Nederland ---
+  Downloading municipalities for Nederland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 766 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 5700 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Nederland.
+
+--- Processing chunk 464/478108: Nederland ---
+  Downloading municipalities for Nederland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 766 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 5700 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Nederland.
+
+--- Processing chunk 465/478108: Nederland ---
+  Downloading municipalities for Nederland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 766 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 5700 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Nederland.
+
+--- Processing chunk 466/478108: Nederland ---
+  Downloading municipalities for Nederland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 766 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 5700 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Nederland.
+
+--- Processing chunk 467/478108: Nederland ---
+  Downloading municipalities for Nederland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 766 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 5700 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Nederland.
+
+--- Processing chunk 468/478108: Nederland ---
+  Downloading municipalities for Nederland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 766 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 5700 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Nederland.
+
+--- Processing chunk 469/478108: Nederland ---
+  Downloading municipalities for Nederland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 766 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 5700 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Nederland.
+
+--- Processing chunk 470/478108: Nederland ---
+  Downloading municipalities for Nederland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 766 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 5700 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Nederland.
+
+--- Processing chunk 471/478108: Nederland ---
+  Downloading municipalities for Nederland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 766 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 5700 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Nederland.
+
+--- Processing chunk 472/478108: Groningen ---
+  Downloading municipalities for Groningen...
+  Removed 366 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Groningen.
+
+--- Processing chunk 473/478108: Groningen ---
+  Downloading municipalities for Groningen...
+  Removed 366 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Groningen.
+
+--- Processing chunk 474/478108: Groningen ---
+  Downloading municipalities for Groningen...
+  Removed 366 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Groningen.
+
+--- Processing chunk 475/478108: Groningen ---
+  Downloading municipalities for Groningen...
+  Removed 366 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Groningen.
+
+--- Processing chunk 476/478108: Groningen ---
+  Downloading municipalities for Groningen...
+  Removed 366 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Groningen.
+
+--- Processing chunk 477/478108: Groningen ---
+  Downloading municipalities for Groningen...
+  Removed 366 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Groningen.
+
+--- Processing chunk 478/478108: Vienenburg ---
+  Downloading municipalities for Vienenburg...
+  Removed 2 duplicate OSM IDs found in previous chunks.
+  Found 29 new municipalities. Saving to file...
+  Successfully saved. Total municipalities so far: 24967
+
+--- Processing chunk 479/478108: Polska ---
+  Downloading municipalities for Polska...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 147 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 163 duplicate OSM IDs found in previous chunks.
+  Found 41165 new municipalities. Saving to file...
+  Successfully saved. Total municipalities so far: 66132
+
+--- Processing chunk 480/478108: Polska ---
+  Downloading municipalities for Polska...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 147 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 41328 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Polska.
+
+--- Processing chunk 481/478108: Polska ---
+  Downloading municipalities for Polska...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 147 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 41328 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Polska.
+
+--- Processing chunk 482/478108: Polska ---
+  Downloading municipalities for Polska...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 147 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 41328 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Polska.
+
+--- Processing chunk 483/478108: Polska ---
+  Downloading municipalities for Polska...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 147 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 41328 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Polska.
+
+--- Processing chunk 484/478108: Polska ---
+  Downloading municipalities for Polska...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 147 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 41328 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Polska.
+
+--- Processing chunk 485/478108: Polska ---
+  Downloading municipalities for Polska...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 147 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 41328 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Polska.
+
+--- Processing chunk 486/478108: Polska ---
+  Downloading municipalities for Polska...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 147 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 41328 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Polska.
+
+--- Processing chunk 487/478108: Polska ---
+  Downloading municipalities for Polska...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 147 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 41328 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Polska.
+
+--- Processing chunk 488/478108: Polska ---
+  Downloading municipalities for Polska...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 147 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 41328 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Polska.
+
+--- Processing chunk 489/478108: Danmark ---
+  Downloading municipalities for Danmark...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 50 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 131 duplicate OSM IDs found in previous chunks.
+  Found 395 new municipalities. Saving to file...
+  Successfully saved. Total municipalities so far: 66527
+
+--- Processing chunk 490/478108: Danmark ---
+  Downloading municipalities for Danmark...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 50 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 526 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Danmark.
+
+--- Processing chunk 491/478108: Danmark ---
+  Downloading municipalities for Danmark...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 50 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 526 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Danmark.
+
+--- Processing chunk 492/478108: Danmark ---
+  Downloading municipalities for Danmark...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 50 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 526 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Danmark.
+
+--- Processing chunk 493/478108: Danmark ---
+  Downloading municipalities for Danmark...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 50 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 526 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Danmark.
+
+--- Processing chunk 494/478108: Danmark ---
+  Downloading municipalities for Danmark...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 50 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 526 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Danmark.
+
+--- Processing chunk 495/478108: Danmark ---
+  Downloading municipalities for Danmark...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 50 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 526 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Danmark.
+
+--- Processing chunk 496/478108: Danmark ---
+  Downloading municipalities for Danmark...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 50 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 526 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Danmark.
+
+--- Processing chunk 497/478108: Danmark ---
+  Downloading municipalities for Danmark...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 50 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 526 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Danmark.
+
+--- Processing chunk 498/478108: Danmark ---
+  Downloading municipalities for Danmark...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 50 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 526 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Danmark.
+
+--- Processing chunk 499/478108: Wegberg ---
+  Downloading municipalities for Wegberg...
+  Removed 17 duplicate OSM IDs found in previous chunks.
+  Found 7 new municipalities. Saving to file...
+  Successfully saved. Total municipalities so far: 66534
+
+--- Processing chunk 500/478108: Wegberg ---
+  Downloading municipalities for Wegberg...
+  Removed 24 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Wegberg.
+
+--- Processing chunk 501/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 14583 duplicate OSM IDs found in previous chunks.
+  Found 28228 new municipalities. Saving to file...
+  Successfully saved. Total municipalities so far: 94762
+
+--- Processing chunk 502/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 503/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 504/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 505/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 506/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 507/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 508/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 509/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 510/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 511/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 512/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 513/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 514/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 515/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 516/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 517/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 518/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 519/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 520/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 521/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 522/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 523/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 524/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 525/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 526/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 527/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 528/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 529/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 530/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 531/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 532/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 533/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 534/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 535/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 536/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 537/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 538/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 539/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 540/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 541/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 542/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 543/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+  Removed 42811 duplicate OSM IDs found in previous chunks.
+  No valid municipality polygons left after filtering for Deutschland.
+
+--- Processing chunk 544/478108: Deutschland ---
+  Downloading municipalities for Deutschland...
+C:\Users\maxikozie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\osmnx\_overpass.py:267: UserWarning: This area is 183 times your configured Overpass max query area size. It will automatically be divided up into multiple sub-queries accordingly. This may take a long time.
+  multi_poly_proj = utils_geo._consolidate_subdivide_geometry(poly_proj)
+Traceback (most recent call last):
